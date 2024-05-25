@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "5661325635",
+    "project_id": "contratrabalhoinfantil-3f532",
+    "storage_bucket": "contratrabalhoinfantil-3f532.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:5661325635:android:425f91d61472b8f53c57f6",
+        "android_client_info": {
+          "package_name": "com.slackmobile.cursoandroidstudiocomfirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBQiseeAUIQhYOjkaMtI1L5tA_l_nyuJI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

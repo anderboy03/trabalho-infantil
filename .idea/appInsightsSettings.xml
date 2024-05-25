@@ -8,10 +8,10 @@
             <InsightsFilterSettings>
               <option name="connection">
                 <ConnectionSetting>
-                  <option name="appId" value="PLACEHOLDER" />
-                  <option name="mobileSdkAppId" value="" />
-                  <option name="projectId" value="" />
-                  <option name="projectNumber" value="" />
+                  <option name="appId" value="com.slackmobile.cursoandroidstudiocomfirebase" />
+                  <option name="mobileSdkAppId" value="1:5661325635:android:425f91d61472b8f53c57f6" />
+                  <option name="projectId" value="contratrabalhoinfantil-3f532" />
+                  <option name="projectNumber" value="5661325635" />
                 </ConnectionSetting>
               </option>
               <option name="signal" value="SIGNAL_UNSPECIFIED" />
